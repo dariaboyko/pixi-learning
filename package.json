@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/dariaboyko/pixi-learning#readme",
   "dependencies": {
+    "@pixi/graphics-extras": "^7.0.2",
     "pixi.js": "^6.0.2"
   }
 }
